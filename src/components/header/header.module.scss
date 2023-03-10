@@ -1,0 +1,14 @@
+.header {
+    height: var(--header-height);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #ffffff;
+    padding: 0 20px;
+    background-color: #0067A3;
+    flex-shrink: 0;
+  
+    h1 {
+      font-size: 1em;
+    }
+  }

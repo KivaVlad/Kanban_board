@@ -1,0 +1,27 @@
+.footer {
+    height: var(--footer-height);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #0067A3;
+    flex-shrink: 0;
+    padding: 0 20px;
+  
+    span:last-of-type {
+      margin-left: 24px;
+    }
+
+    a {
+      text-decoration: none;
+      color: #ffffff;
+    }
+
+    @media(max-width: 650px) {
+      display: flex;
+      text-align: center;
+      flex-direction: column;
+      margin: -10px;
+    }
+  }
