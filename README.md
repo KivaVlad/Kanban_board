@@ -1,3 +1,7 @@
+Ссылка на gh-pages:
+
+https://kivavlad.github.io/Kanban_board/
+
 Основные задачи 
 1 Развернуть React-приложение с использованием create-react-app.
 
